@@ -1,4 +1,4 @@
-📊 Análise da Cotação do Dólar (USD/BRL)
+## 📊 Análise da Cotação do Dólar (USD/BRL)
 
 📌 Sobre o projeto
 
