@@ -1,17 +1,17 @@
 ## 📊 Análise da Cotação do Dólar (USD/BRL)
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto realiza uma análise exploratória da cotação do dólar (USD/BRL) utilizando dados públicos do Banco Central do Brasil. O objetivo é identificar tendências, calcular estatísticas e gerar visualizações que auxiliem na compreensão da variação da moeda ao longo do tempo.
 
-🎯 Objetivos
+## 🎯 Objetivos
 
 - Analisar a evolução da cotação do dólar.
 - Calcular média, valor máximo e mínimo.
 - Identificar tendências ao longo dos meses.
 - Produzir gráficos para facilitar a interpretação dos dados.
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Python
 - Pandas
@@ -19,11 +19,11 @@ Este projeto realiza uma análise exploratória da cotação do dólar (USD/BRL)
 - Matplotlib
 - Jupyter Notebook
 
-📂 Base de dados
+## 📂 Base de dados
 
 Os dados utilizados são do Banco Central do Brasil e contêm informações históricas da cotação do dólar comercial.
 
-📊 Análises realizadas
+## 📊 Análises realizadas
 
 - Limpeza e tratamento dos dados.
 - Conversão de datas e valores.
@@ -33,14 +33,14 @@ Os dados utilizados são do Banco Central do Brasil e contêm informações hist
 - Análise por mês e trimestre.
 - Visualizações gráficas.
 
-📈 Principais resultados
+## 📈 Principais resultados
 
 - Média da cotação de venda: R$ 5,46.
 - Base de dados com 358 registros.
 - Dados sem valores ausentes após o tratamento.
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Gabriel Angelo
 
